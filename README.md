@@ -1,5 +1,9 @@
 # Projeto Pizzaria Concorrente
 
+## Equipe
+- Daniel Raimundo
+- Thiago Pereira
+
 ## Objetivo
 Demonstrar concorrência e sincronização simulando uma pizzaria.
 
