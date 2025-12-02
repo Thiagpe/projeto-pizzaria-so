@@ -1,7 +1,7 @@
 # Projeto Pizzaria Concorrente
 
 ## Equipe
-- Daniel Raimundo
+- Daniel Soares
 - Thiago Pereira
 
 ## Objetivo
